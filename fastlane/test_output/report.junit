@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites tests='3' failures='0'>
+  <testsuite name='CIExampleTests.CIExampleTests' tests='2' failures='0'>
+    <testcase classname='CIExampleTests.CIExampleTests' name='testExample' time='0.001'/>
+    <testcase classname='CIExampleTests.CIExampleTests' name='testPerformanceExample' time='1.618'/>
+  </testsuite>
+  <testsuite name='CIExampleUITests.CIExampleUITests' tests='1' failures='0'>
+    <testcase classname='CIExampleUITests.CIExampleUITests' name='testExample' time='7.507'/>
+  </testsuite>
+</testsuites>
