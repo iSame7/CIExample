@@ -20,6 +20,11 @@ class CIExampleTests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
         super.tearDown()
     }
+
+    func testExample() {
+        let a = 1
+        XCTAssert(a + 1 == 2)
+    }
     
     func testExample() {
         // This is an example of a functional test case.
